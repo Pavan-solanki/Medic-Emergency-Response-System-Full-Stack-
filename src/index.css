@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+    /* background-color: black; */
+    color: white;
+}
+
+body {
+    background-image: url('../public/10554240.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+}

@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  background-image: url('/Real-Time/public/10554240.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  margin: 0;
+}
