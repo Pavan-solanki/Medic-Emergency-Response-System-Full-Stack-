@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Ambulance from "../pages/AmbulanceForm";
 import HospitalSelection from "../pages/HospitalSelection";
 import HospitalDashboard from "../pages/HospitalDashboard";
-import Navbar from "../components/NavBar";
+import Navbar from "../components/Navbar";
 
 const AppRoutes = () => {
   return (
